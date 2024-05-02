@@ -1,0 +1,4 @@
+repository "Waluigi_CDS34-main@evouriot6@cloud"
+  path "/"
+    br "/main"
+    co "/main"
